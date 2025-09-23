@@ -9,3 +9,5 @@ This project is intended as a beginner-friendly example for learning programming
 - Multiplication
 - Division (with zero division handling)
 - Clear and exit options (if implemented in CLI/UI version)
+
+Beautifully well structured output.
