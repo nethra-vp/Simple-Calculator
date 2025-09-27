@@ -8,6 +8,6 @@ This project is intended as a beginner-friendly example for learning programming
 - Subtraction
 - Multiplication
 - Division (with zero division handling)
-- Clear and exit options (if implemented in CLI/UI version)
+- Clear and exit options
 
 Beautifully well structured output.
